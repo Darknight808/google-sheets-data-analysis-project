@@ -55,10 +55,6 @@ This project was developed as part of my learning process in data analysis using
 
 ---
 
-## 📎 Source
-This project was based on a tutorial from YouTube:
-https://www.youtube.com/watch?v=qfCjuANADlU
-
 ---
 
 ## 📬 Contact
