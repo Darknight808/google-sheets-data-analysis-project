@@ -8,7 +8,8 @@ The goal of this project is to clean, analyze, and visualize data using spreadsh
 ---
 
 ## 📊 Dashboard Preview
-/images/CRM_Sales_Opportunities.png
+![Dashboard](images/CRM_Sales_Opportunities.png)
+
 
 ---
 
