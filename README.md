@@ -8,7 +8,7 @@ The goal of this project is to clean, analyze, and visualize data using spreadsh
 ---
 
 ## 📊 Dashboard Preview
-![Dashboard](images/CRM_Sales_Opportunities.png)
+![Dashboard](https://raw.githubusercontent.com/Darknight808/google-sheets-data-analysis-project/main/images/CRM_Sales_Opportunities.png)
 
 
 ---
